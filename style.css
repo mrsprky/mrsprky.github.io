@@ -133,7 +133,7 @@ body .btn-primary:hover::after {
 /* Slider Section */
 
 .slider-section {
-    background: url(./img/main-banner2.jpg) no-repeat top center;
+    background: url(./img/main-banner2.jpg) no-repeat top center fixed;
     background-size: cover;
 }
 .slider-content {
